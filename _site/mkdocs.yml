@@ -1,0 +1,30 @@
+site_name: Inteligência Artificial
+theme:
+  logo: assets/logoBranco.png
+  favicon: assets/logo.png
+  name: material
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
+extra_css:
+  - stylesheets/styles.css
+dev_addr: "0.0.0.0:8080"
+
+nav:
+  - Sobre: index.md
+  - Introdução à Inteligência Artificial:
+      - Inteligência Artificial: introducao/definicao.md
+      - Aprendizado de Máquina: introducao/ml.md
+      - Limitações da IA: introducao/limitacoes.md
+      - Referências: introducao/referencias.md
+  - Resolução de problemas por busca: introducao/introIA1.md
+  - Problemas de satisfação de condições: introducao/introIA2.md
+  - Agentes lógicos: introIA/introIA3.md
+  - Quantificação de incertezas e redes Bayesianas: introIA/introIA4.md
