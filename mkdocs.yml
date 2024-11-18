@@ -1,3 +1,4 @@
+docs_dir: "docs"
 site_name: Inteligência Artificial
 theme:
   logo: assets/logoBranco.png
@@ -28,3 +29,6 @@ nav:
   - Problemas de satisfação de condições: introducao/introIA2.md
   - Agentes lógicos: introIA/introIA3.md
   - Quantificação de incertezas e redes Bayesianas: introIA/introIA4.md
+
+repo_url: https://github.com/sabrinaberno/InteligenciaArtificial
+repo_name: sabrinaberno.github.io/InteligenciaArtificial/
