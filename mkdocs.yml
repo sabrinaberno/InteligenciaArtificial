@@ -22,6 +22,7 @@ nav:
   - Introdução à Inteligência Artificial:
       - Inteligência Artificial: introducao/definicao.md
       - Aprendizado de Máquina: introducao/ml.md
+      - Limitações da IA: introducao/limitacoes.md
       - Referências: introducao/referencias.md
   - Resolução de problemas por busca: introducao/introIA1.md
   - Problemas de satisfação de condições: introducao/introIA2.md
