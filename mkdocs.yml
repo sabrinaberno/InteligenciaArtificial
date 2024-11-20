@@ -21,10 +21,11 @@ dev_addr: "0.0.0.0:8080"
 nav:
   - Sobre: index.md
   - Introdução à Inteligência Artificial:
-      - Inteligência Artificial: introducao/definicao.md
-      - Aprendizado de Máquina: introducao/ml.md
-      - Limitações da IA: introducao/limitacoes.md
-      - Referências: introducao/referencias.md
+      - Histórico: modulo1/historico.md
+      - Inteligência Artificial: modulo1/IA.md
+      - Limitações, riscos e ética: modulo1/limitacoes.md
+      - AI Index Report 2024: modulo1/AI-Index-2024.md
+      - Referências: modulo1/referencias.md
   #- Resolução de problemas por busca:
   #- Problemas de satisfação de condições: 
   #- Agentes lógicos:
