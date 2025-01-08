@@ -32,10 +32,19 @@ nav:
     - Problemas de malha aberta e de malha fechada: modulo2/malha.md
     - Algoritmos de Busca: modulo2/busca.md
     - Implementação de Busca: modulo2/algoritmos.md
-    - Funções Heurísticas: 'modulo2/heuristica.md'
+    - Funções Heurísticas: modulo2/heuristica.md
     - Ambientes Complexos: modulo2/complexos.md
+    - Algoritmos Genéticos: modulo2/geneticos.md
     - Referências: modulo2/referencias.md
-  #- Problemas de satisfação de condições: 
+  - Problemas de satisfação de condições: 
+    - Atômica vs. Fatorada: modulo3/AtomicaFatorada.md
+    - Problemas de Satisfação de Condições: modulo3/satisfacao.md
+    - Tipos de Restrições: modulo3/restricoes.md
+    - Consistência: modulo3/consistencia.md
+    - Algoritmos: modulo3/algoritmos.md
+    - Estruturas de Problemas: modulo3/problemas.md
+    - Implementação dos Algoritmos: modulo3/implementacao
+    - Referências: modulo3/referencias.md
   #- Agentes lógicos:
   #- Quantificação de incertezas e redes Bayesianas: 
 

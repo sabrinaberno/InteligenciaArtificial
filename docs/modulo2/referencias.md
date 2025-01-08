@@ -14,5 +14,6 @@ ENGEL, Paulo. **Métodos de resolução de problemas Técnicas de busca**. UFRGS
 
 RUSSELL, Stuart J.; NORVIG, Peter. **Artificial Intelligence: A Modern Approach.** 3. ed. Upper Saddle River: Prentice Hall, 2016.
 
-SOARES, Fabiano. FGA0221 - INTELIGÊNCIA ARTIFICIAL - 2024/2. Gama-DF: E-book. Disponível em:https://unbbr.sharepoint.com/:f:/s/FGA0221-INTELIGNCIAARTIFICIAL-2024_2/EpCk6sI26yRIvnd-rudKKsBMFZ8ByVdYNGsfmHumLYCNw?e=IQyhEu
+SOARES, Fabiano. **FGA0221 - INTELIGÊNCIA ARTIFICIAL - 2024/2**. Gama-DF: E-book. Disponível em:https://unbbr.sharepoint.com/:f:/s/FGA0221-INTELIGNCIAARTIFICIAL-2024_2/EpCk6sI26yRIvnd-rudKKsBMFZ8ByVdYNGsfmHumLYCNw?e=IQyhEu
 
+BARTZ-BEIELSTEIN, Thomas et al. **Overview: Evolutionary Algorithms**. Cologne University of Applied Sciences. 2014. Disponível em: https://www.researchgate.net/publication/261842296_Evolutionary_Algorithms
