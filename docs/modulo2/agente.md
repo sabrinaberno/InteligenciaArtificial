@@ -1,4 +1,14 @@
-<div style="text-indent: 2em; text-align: justify;">
+<div style="text-indent: 4em; text-align: justify;">
+
+
+<h4 style="color: #070743; font-weight: bold;">Considerações Iniciais</h4> 
+
+<p>O tema dos agentes de solução de problemas na inteligência artificial desperta grande interesse, pois apresenta um equilíbrio entre teoria e aplicação prática. Antes de aprofundar no assunto, as aulas da matéria proporcionaram uma visão inicial sobre como esses agentes funcionam como componentes essenciais para resolver problemas em ambientes complexos e dinâmicos. Até o momento, entendi que eles operam com base na formulação de objetivos e problemas, executando estratégias de busca e planejamento para alcançar resultados otimizados. Essa abordagem me ajudou a compreender a importância de conceitos como estados, ações, algoritmos de busca e heurísticas, frequentemente utilizados em aplicações como jogos, sistemas de recomendação e robótica.
+
+<p>Minhas expectativas são de consolidar esse conhecimento inicial, explorando de forma mais detalhada como diferentes modelos e algoritmos podem ser aplicados a problemas reais. Espero também entender melhor a escolha entre busca informada e não informada, assim como as vantagens e limitações de cada abordagem em cenários diversos. Por fim, estou curiosa para aprofundar a análise dos algoritmos genéticos e sua contribuição na resolução de problemas mais complexos. Acredito que esse estudo permitirá conectar a teoria com situações práticas, oferecendo um panorama mais completo e aplicável dos agentes de solução de problemas na inteligência artificial.
+
+<br>
+<br>
 
 <h1 style="color: #070743; font-weight: bold; text-align: center">Agente de Soluções de Problemas</h1> 
 

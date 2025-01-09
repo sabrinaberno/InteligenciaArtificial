@@ -1,5 +1,16 @@
 <div style="text-indent: 2em; text-align: justify;">
 
+
+<h4 style="color: #070743; font-weight: bold;">Considerações Iniciais</h4> 
+
+<p>Ao iniciar o estudo sobre os Problemas de Satisfação de Restrições (CSPs) e os conceitos relacionados à representação atômica e fatorada, minhas expectativas giram em torno de compreender como essas abordagens podem ser aplicadas para modelar e resolver problemas de forma eficiente. O tema desperta grande interesse, pois combina conceitos de matemática, lógica e computação, áreas que considero essenciais para o avanço da Inteligência Artificial.
+
+<p>Nas aulas da disciplina, aprendi que a representação atômica trata os estados de maneira indivisível, enquanto a representação fatorada permite decompor o problema em variáveis e seus respectivos domínios. Essa diferença foi marcante para entender como problemas complexos podem ser abordados com maior flexibilidade e escalabilidade. Também descobri que os CSPs são uma ferramenta poderosa para resolver problemas que envolvem restrições bem definidas, como planejamento de horários e alocação de recursos.
+
+<p>Fiquei especialmente interessada no papel da consistência em CSPs, pois ela parece ser uma estratégia essencial para reduzir o espaço de busca e otimizar a solução de problemas. Além disso, a aplicação de algoritmos clássicos e avançados demonstra a relevância prática desse tema em áreas como logística, jogos e sistemas de recomendação.
+
+<p>Minha expectativa é aprofundar o entendimento sobre como essas teorias são implementadas na prática, explorar algoritmos como backtracking e forward checking, e reconhecer os desafios associados à modelagem de problemas complexos. Estou motivada a aprender como aplicar esses conhecimentos em cenários reais, utilizando ferramentas e frameworks da área para criar soluções robustas e eficientes.
+
 <h1 style="color: #070743; font-weight: bold; text-align: center">Representação Atômica vs. Fatorada</h1> 
 
 <p>A distinção entre representação atômica e representação fatorada desempenha um papel essencial no estudo e na resolução de Problemas de Satisfação de Restrições (CSPs, do inglês Constraint Satisfaction Problems). Cada uma dessas formas de representação possui características específicas que influenciam a abordagem de solução e sua eficiência.</p>
