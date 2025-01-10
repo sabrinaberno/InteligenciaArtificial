@@ -21,13 +21,20 @@ dev_addr: "0.0.0.0:8080"
 nav:
   - Sobre: index.md
   - Introdução à Inteligência Artificial:
-      - Histórico: modulo1/historico.md
-      - Inteligência Artificial: modulo1/IA.md
-      - Limitações, riscos e ética: modulo1/limitacoes.md
-      - AI Index Report 2024: modulo1/AI-Index-2024.md
-      - Agentes Inteligentes: modulo1/agentes.md
-      - Referências: modulo1/referencias.md
-  #- Resolução de problemas por busca:
+    - Histórico: modulo1/historico.md
+    - Inteligência Artificial: modulo1/IA.md
+    - Limitações, riscos e ética: modulo1/limitacoes.md
+    - AI Index Report 2024: modulo1/AI-Index-2024.md
+    - Agentes Inteligentes: modulo1/agentes.md
+    - Referências: modulo1/referencias.md
+  - Resolução de problemas por busca:
+    - Agente de soluções de problemas: modulo2/agente.md
+    - Problemas de malha aberta e de malha fechada: modulo2/malha.md
+    - Algoritmos de Busca: modulo2/busca.md
+    - Implementação de Busca: modulo2/algoritmos.md
+    - Funções Heurísticas: 'modulo2/heuristica.md'
+    - Ambientes Complexos: modulo2/complexos.md
+    - Referências: modulo2/referencias.md
   #- Problemas de satisfação de condições: 
   #- Agentes lógicos:
   #- Quantificação de incertezas e redes Bayesianas: 
