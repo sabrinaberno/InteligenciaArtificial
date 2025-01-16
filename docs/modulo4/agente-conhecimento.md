@@ -1,5 +1,15 @@
 <div style="text-indent: 2em; text-align: justify;">
 
+<h4 style="color: #070743; font-weight: bold;">Considerações Iniciais</h4> 
+
+<p>Ao iniciar o estudo sobre agentes baseados em conhecimento, minhas expectativas são compreender como esses sistemas utilizam bases de conhecimento e processos de inferência lógica para tomar decisões inteligentes. Estou particularmente interessada em como essas tecnologias podem ser aplicadas para resolver problemas reais de forma eficiente e adaptativa, especialmente em contextos onde há incerteza ou informações incompletas.
+
+<p>Pelas aulas da matéria, entendi que agentes baseados em conhecimento funcionam como sistemas que armazenam informações em uma estrutura formal e utilizam regras lógicas para raciocinar e inferir novas conclusões. Conceitos como lógica proposicional, sintaxe, semântica e inferência foram apresentados como fundamentos essenciais para a implementação desses agentes. Também foi esclarecido como a lógica formal é aplicada para garantir que as decisões sejam racionais e consistentes.
+
+<p>Através de exemplos como o mundo do Wumpus, percebi que o uso de regras lógicas permite que um agente analise o ambiente, preveja consequências de ações e escolha os melhores caminhos para alcançar objetivos. Esse aprendizado despertou minha curiosidade sobre as limitações e desafios, como a escalabilidade do sistema e a necessidade de representação precisa do conhecimento.
+
+<p>Espero aprofundar meu entendimento sobre como projetar e implementar agentes baseados em conhecimento, explorando diferentes métodos de inferência e suas aplicações práticas. Meu objetivo é não apenas entender os conceitos teóricos, mas também desenvolver habilidades para aplicá-los em contextos práticos, como simulações e soluções para problemas do mundo real.
+
 <h1 style="color: #070743; font-weight: bold; text-align: center">Agente baseado em conhecimento</h1> 
 <p>Os agentes baseados em conhecimento desempenham um papel essencial na inteligência artificial (IA), utilizando uma base de conhecimento (<strong>Knowledge Base – KB</strong>) para tomar decisões racionais e fundamentadas. Eles são projetados para raciocinar sobre informações armazenadas e inferir novas conclusões, adaptando-se a diferentes cenários.</p>
 <p>Os agentes baseados em conhecimento desempenham um papel essencial na inteligência artificial (IA), utilizando uma base de conhecimento (<strong>Knowledge Base – KB</strong>) para tomar decisões racionais e fundamentadas. Eles são projetados para raciocinar sobre informações armazenadas e inferir novas conclusões, adaptando-se a diferentes cenários. De acordo com <strong>Poole e Mackworth (2017)</strong>, o uso de agentes baseados em conhecimento requer uma representação formal do conhecimento, que pode ser manipulada e consultada para gerar decisões.</p>
