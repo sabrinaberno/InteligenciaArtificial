@@ -45,7 +45,13 @@ nav:
     - Estruturas de Problemas: modulo3/problemas.md
     - Implementação dos Algoritmos: modulo3/implementacao
     - Referências: modulo3/referencias.md
-  #- Agentes lógicos:
+  - Agentes lógicos:
+    - Agente baseado em conhecimento: modulo4/agente-conhecimento.md
+    - Lógica: modulo4/logica.md
+    - Processo de inferência: modulo4/inferencia.md
+    - Agente baseado em lógica proposicional: modulo4/logica-propo.md
+    - Referências: modulo4/referencias.md
+
   #- Quantificação de incertezas e redes Bayesianas: 
 
 repo_url: https://github.com/sabrinaberno/InteligenciaArtificial
